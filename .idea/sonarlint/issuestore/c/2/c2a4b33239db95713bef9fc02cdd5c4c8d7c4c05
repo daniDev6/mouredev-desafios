@@ -1,14 +1,14 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡¨ë²üÿÿÿÿ8×¿ÀÓÏ2
-h
-java:S2184"FCast one of the operands of this multiplication operation to a "long".(Øê‚Šûÿÿÿÿ8×¿ÀÓÏ2
-{
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8Ú¿ÀÓÏ2
-X
-java:S3984"6Throw this exception or remove this useless statement.(°õ‚øÿÿÿÿ8Û¿ÀÓÏ2
-F	java:S106("+Replace this use of System.out by a logger.(š´`8İ¿ÀÓÏ2
-X
-java:S3984)"6Throw this exception or remove this useless statement.(°õ‚øÿÿÿÿ8İ¿ÀÓÏ2
-G	java:S1061"+Replace this use of System.out by a logger.(çüˆ¨8Ş¿ÀÓÏ2
-L	java:S1063"+Replace this use of System.out by a logger.(ÁÀ¢œÿÿÿÿÿ8Ş¿ÀÓÏ2
-G	java:S1065"+Replace this use of System.out by a logger.(ªÖù’8Ş¿ÀÓÏ2
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡¨ë²üÿÿÿÿ8×¿ÀÓÏ2J$1d81b61c-838a-4c8c-8e64-6dc4299829a8
+
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(Øê‚Šûÿÿÿÿ8×¿ÀÓÏ2J$0ec72c28-7655-4a00-8974-3471009035dc
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ú¿ÀÓÏ2J$f068f1c8-f1a2-462b-8f6e-7117b5456a6c
+~
+java:S3984"6Throw this exception or remove this useless statement.(°õ‚øÿÿÿÿ8Û¿ÀÓÏ2J$413daf75-b05e-4c50-8cf4-bfbb09a1cdc5
+l	java:S106("+Replace this use of System.out by a logger.(š´`8İ¿ÀÓÏ2J$7178189f-69df-41ff-824e-27e6551be62f
+~
+java:S3984)"6Throw this exception or remove this useless statement.(°õ‚øÿÿÿÿ8İ¿ÀÓÏ2J$57e7e412-922a-40f5-8a34-10c84c17de0d
+m	java:S1061"+Replace this use of System.out by a logger.(çüˆ¨8Ş¿ÀÓÏ2J$767367dc-a5cc-4fa9-8f13-0584a31bd30c
+r	java:S1063"+Replace this use of System.out by a logger.(ÁÀ¢œÿÿÿÿÿ8Ş¿ÀÓÏ2J$28dd4ef3-a9d7-4eb2-862f-d545f2d4d503
+m	java:S1065"+Replace this use of System.out by a logger.(ªÖù’8Ş¿ÀÓÏ2J$d4a50997-757c-4c3d-b9e5-0d604d04e7e4

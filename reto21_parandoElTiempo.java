@@ -23,7 +23,7 @@ class Hilos implements Runnable{
     static int sumar(int n1,int n2){
         try{
         Thread.sleep((n1+n2)*1000 );
-        }catch (Exception e){
+        }catch (InterruptedException e){
             new RuntimeException(e);
         }
         return n1+n2;
