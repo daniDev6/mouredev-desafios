@@ -1,0 +1,14 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(┤╗К╡ЭЪЪЪЪ8в©юсо2
+h
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ьЙ┌┼ШЪЪЪЪ8в©юсо2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(█■Щ╬8з©юсо2
+X
+java:S3984"6Throw this exception or remove this useless statement.(╟У┌│ЬЪЪЪЪ8ш©юсо2
+F	java:S106("+Replace this use of System.out by a logger.( ╢│`8щ©юсо2
+X
+java:S3984)"6Throw this exception or remove this useless statement.(╟У┌│ЬЪЪЪЪ8щ©юсо2
+G	java:S1061"+Replace this use of System.out by a logger.(ГЭ┬╗8ч©юсо2
+L	java:S1063"+Replace this use of System.out by a logger.(аю╒°ЪЪЪЪЪ8ч©юсо2
+G	java:S1065"+Replace this use of System.out by a logger.(╙жЫ▓8ч©юсо2
