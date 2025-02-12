@@ -1,0 +1,28 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É®Äûÿÿÿÿ8˜­İáÎ2J$624f37bc-b5b4-4578-aecf-9632f1829a36
+x
+java:S1066ğ"/Merge this if statement with the enclosing one.(ã§øÿÿÿÿ8™­İáÎ2J$4fafbc6b-6190-4d60-b670-231eb097c316
+…
+java:S4973Ñ"<Strings and Boxed types should be compared using "equals()".(–åüùøÿÿÿÿ8™­İáÎ2J$444caa19-e76a-4357-9454-2d8f37fd9532
+¨
+java:S4165("eRemove this useless assignment; "tablero" already holds the assigned value along all execution paths.(Ğõ¹ã8›­İáÎ2J$f98c3115-a2e3-4e41-9c9c-166852968eaf
+
+java:S1192}"LDefine a constant instead of duplicating this literal "Sin ganador" 4 times.(Ø–²_8œ­İáÎ2J$469a10a8-ea63-4149-9cc2-b238299b2880
+l	java:S106"+Replace this use of System.out by a logger.(ÌÌ÷a8Ÿ­İáÎ2J$c0faca4d-7b1b-4131-81c8-4b1f2bb4ca0d
+r	java:S106"+Replace this use of System.out by a logger.(Ê—ßÚıÿÿÿÿ8Ÿ­İáÎ2J$ca3cac44-93d9-49eb-b941-f4c253f242ca
+m	java:S106"+Replace this use of System.out by a logger.(ûˆËŠ8Ÿ­İáÎ2J$77a38b60-83f8-4316-a05d-2c8a34486523
+r	java:S106""+Replace this use of System.out by a logger.(ÉÖåªıÿÿÿÿ8 ­İáÎ2J$d7459b5f-500a-4244-8a66-c4858457a0f2
+r	java:S106+"+Replace this use of System.out by a logger.(´­¯¹ùÿÿÿÿ8 ­İáÎ2J$f9f40742-d0cc-4c91-8cd4-a2fb79bcb4b6
+m	java:S106C"+Replace this use of System.out by a logger.(òõ¬8 ­İáÎ2J$090d6e49-1d48-49fc-9f86-d8160c72eff9
+m	java:S106\"+Replace this use of System.out by a logger.(Ì³‹†8¡­İáÎ2J$e4e75425-ab64-4773-8130-e0fd2a480bd4
+r	java:S106^"+Replace this use of System.out by a logger.(ùÿüÿÿÿÿ8¡­İáÎ2J$8290a8e6-28bc-461e-8b66-ffd4b18aae16
+m	java:S106`"+Replace this use of System.out by a logger.(•»ë8¡­İáÎ2J$af578afd-99db-411b-8bde-907f54aae019
+r	java:S106b"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¡­İáÎ2J$cf6b7c7a-7d3a-4bf5-a22d-17582b92b849
+i
+java:S1481j"&Remove this unused "k" local variable.(¢³¯¯8¢­İáÎ2J$af526252-cfae-46b6-9646-b8bfe6a0d078
+j
+java:S1481"&Remove this unused "k" local variable.(¢³¯¯8¢­İáÎ2J$76324553-5e45-4dee-abcd-fac50eb545b5
+m	java:S106†"+Replace this use of System.out by a logger.(å×¼!8¦­İáÎ2J$8d9ce962-98ae-454a-825a-5ef45c31b436
+n	java:S106"+Replace this use of System.out by a logger.(®÷Ü¹8§­İáÎ2J$8a369d11-d868-4850-b2ef-85b4b99a5cf1
+w
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8¨­İáÎ2J$4fdad528-53bc-4619-b66e-8657077030cc

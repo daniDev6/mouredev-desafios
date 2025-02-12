@@ -1,0 +1,12 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªÄ“³8Ğ²ÆÌ2J$a1a817c3-9daf-44f1-98ad-f658626a8758
+_
+java:S1643-"Use a StringBuilder instead.(óôäã8Ñ²ÆÌ2J$77cd7172-07b2-49da-887f-77ddb88d7f0e
+~	java:S125"<This block of commented-out lines of code should be removed.(Éœ­ú8Ô²ÆÌ2J$ab93b8af-ef00-47d7-8f40-feaaadc40ee2
+r	java:S106	"+Replace this use of System.out by a logger.(¨æÿœıÿÿÿÿ8Ô²ÆÌ2J$cc243de6-5817-4bc3-895d-62f5c07d4df9
+m	java:S106"+Replace this use of System.out by a logger.(·–¦æ8Õ²ÆÌ2J$1357c1c1-a6b0-4506-81ea-a6b26eaeb74e
+l	java:S106"+Replace this use of System.out by a logger.(¦Ş‡8Õ²ÆÌ2J$e42004b8-a107-4edd-8268-b024f8c9e553
+r	java:S106"+Replace this use of System.out by a logger.(ˆáàÆÿÿÿÿÿ8Õ²ÆÌ2J$9472f04b-b141-49e8-8847-0637ec7c6634
+m	java:S106"+Replace this use of System.out by a logger.(‘ »ù8Õ²ÆÌ2J$d361029a-8445-4078-a8a5-67aa443fcec9
+p
+java:S1481'"(Remove this unused "aux" local variable.(„¹Ë’ÿÿÿÿÿ8Õ²ÆÌ2J$c3f87665-d9c6-4398-8633-a608176b8307

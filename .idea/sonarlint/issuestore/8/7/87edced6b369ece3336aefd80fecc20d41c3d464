@@ -1,0 +1,44 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òÄ8ç°ôœÌ2J$4b9a9aea-c970-47cc-9307-0a0b75d8b522
+
+java:S2589="7Remove this expression which always evaluates to "true"(ó¬ƒÿÿÿÿÿ8è°ôœÌ2J$029ef2dc-8638-4eea-82c6-6c25b0aed01c
+
+java:S2589="7Remove this expression which always evaluates to "true"(ó¬ƒÿÿÿÿÿ8è°ôœÌ2J$df5c5bf9-a439-452d-9338-1fbd405df9e1
+Ë
+java:S1192"‚Define a constant instead of duplicating this literal "-----------------------------------------------------------------" 8 times.(¾…´øÿÿÿÿ8é°ôœÌ2J$119e5210-bd8f-42c0-a255-e4e6a80400ef
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8ë°ôœÌ2J$2ab5796b-c54a-4993-83b0-a0baa032d1dc
+r	java:S106"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8î°ôœÌ2J$76411908-1e8f-4125-af17-b9214a6d17d9
+r	java:S106"+Replace this use of System.out by a logger.(ë¥‰ıÿÿÿÿ8ï°ôœÌ2J$f7fe7b95-af79-45f2-8244-20fe65925ee6
+r	java:S106"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8ï°ôœÌ2J$40b1c986-8614-4e6d-bf09-390f717f4d10
+r	java:S106"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8ï°ôœÌ2J$1c5e2af6-3f97-476d-84e0-6fdaa786a713
+r	java:S106$"+Replace this use of System.out by a logger.(ÉÏÜùÿÿÿÿ8ï°ôœÌ2J$6778e87c-f815-47e4-87ff-7a6bfbeea537
+r	java:S106("+Replace this use of System.out by a logger.(™€Úñüÿÿÿÿ8ğ°ôœÌ2J$33449904-0a47-4125-89ad-6fa596b4d4d9
+m	java:S106*"+Replace this use of System.out by a logger.(şóé8ğ°ôœÌ2J$d3076a58-6973-47e2-82d6-42bc3ef48e03
+m	java:S106,"+Replace this use of System.out by a logger.(ŠÒĞ¶8ğ°ôœÌ2J$0637109f-df7d-4251-a593-0de74fb46673
+r	java:S1063"+Replace this use of System.out by a logger.(–áöéüÿÿÿÿ8ñ°ôœÌ2J$c7b97702-e348-4b24-b5ea-2549128152f2
+m	java:S1068"+Replace this use of System.out by a logger.(ŠÒĞ¶8ò°ôœÌ2J$e37c0224-bcb4-4ba9-a6b1-5972530f61ef
+r	java:S106>"+Replace this use of System.out by a logger.(ÌÂ êûÿÿÿÿ8ò°ôœÌ2J$fcdd461b-9dbf-424e-9130-de173fb61043
+m	java:S106@"+Replace this use of System.out by a logger.(úî­ê8ò°ôœÌ2J$5f2cf97c-be4a-4b19-bb81-b3f8f448ef3b
+k
+java:S1125A"(Remove the unnecessary boolean literals.(ì¸ÌÛ8ö°ôœÌ2J$60fc7f94-e250-40a3-bb9b-fd71b2ff1f2d
+r	java:S106C"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8÷°ôœÌ2J$72cbd600-765d-4170-97c7-4c3744550904
+r	java:S106D"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8÷°ôœÌ2J$b45d8594-d7d4-48e3-a748-9bcd55701695
+r	java:S106E"+Replace this use of System.out by a logger.(¡‡¹Åüÿÿÿÿ8÷°ôœÌ2J$11149ee8-b3fd-4d3c-a328-d0d8a997c2ce
+r	java:S106F"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8÷°ôœÌ2J$d2181166-a11b-453c-9c50-e73f4e5a7a0f
+r	java:S106G"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8ø°ôœÌ2J$ce9e2f36-6ee9-46c6-8aab-51e7551bdd2e
+r	java:S106H"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8ø°ôœÌ2J$75e9bf77-6517-47d4-a137-22370be9dec0
+r	java:S106d"+Replace this use of System.out by a logger.(·•­ıÿÿÿÿ8ù°ôœÌ2J$6670a1f6-022a-4f63-b7fe-ef8fa3f755ef
+~
+java:S3984g"6Throw this exception or remove this useless statement.(Åùß¢şÿÿÿÿ8ù°ôœÌ2J$08584bb6-6f40-4cd8-8b11-1aee01c5ef1f
+m	java:S106h"+Replace this use of System.out by a logger.(Á·‘¡8Õ¸øœÌ2J$88e96b71-78cf-4e0e-8590-2ef2986a04c5
+x
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8ú°ôœÌ2J$7e33c0d7-d22d-44a9-928c-6536d0e29559
+z
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ú°ôœÌ2J$0ce7e2fc-f3ad-497e-8e0d-bb714e83d12b
+|
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ú°ôœÌ2J$ea527e31-286f-4380-885c-15a991ec1b95
+t
+java:S1128",Remove this unused import 'java.time.Month'.(¤‚Éøÿÿÿÿ8ú°ôœÌ2J$e17f4209-9215-4de3-a438-5af9393e4506
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ú°ôœÌ2J$e03b0d42-8cbc-44f4-9867-dfa8cf9a52bc

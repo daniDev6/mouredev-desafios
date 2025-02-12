@@ -1,0 +1,8 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëÛ™Å8ÖÒ·¯È2J$0515075a-2ecf-4258-961d-4907742f5c54
+m	java:S106"+Replace this use of System.out by a logger.(âıÉ‰8àÒ·¯È2J$a9f515bd-a2dd-464f-876a-f613d4c01bf4
+r	java:S106"+Replace this use of System.out by a logger.(Ü›Ç†øÿÿÿÿ8àÒ·¯È2J$72e056ff-73c6-41a5-a01e-f1c56cdee720
+m	java:S106"+Replace this use of System.out by a logger.(¸£é8àÒ·¯È2J$114cc45d-7262-46e3-ba18-237a59b82776
+r	java:S1062"+Replace this use of System.out by a logger.(Ğ•½¬ÿÿÿÿÿ8âÒ·¯È2J$098b2b63-a6c1-424b-80df-bb9d532eb2d5
+w
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8æ™º¯È2J$397a8eda-1b1a-4fd9-94b1-37164643d099

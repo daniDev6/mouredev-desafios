@@ -1,0 +1,20 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬“­ëÿÿÿÿÿ8›®É2J$3b96d7e5-bf2e-4b01-8b3a-1c7f2c86a9c7
+d
+java:S1643%"Use a StringBuilder instead.(Œ®¹óøÿÿÿÿ8œ®É2J$43ed9fef-8ed0-492b-8b24-7967ee28da16
+d
+java:S1643("Use a StringBuilder instead.(„Ö•Ğúÿÿÿÿ8œ®É2J$152dee22-ba1a-43e0-94af-85795a9f0581
+^
+java:S1643+"Use a StringBuilder instead.(œ€8œ®É2J$12620c27-0dee-44e7-9c73-1355b582faaf
+d
+java:S1643."Use a StringBuilder instead.(Œ­®ûÿÿÿÿ8œ®É2J$9cfb5fcd-c161-4fe2-88eb-728825f06561
+_
+java:S16431"Use a StringBuilder instead.(‹ÀŒé8œ®É2J$a6623fae-0f49-40f0-b730-0acf6d29a941
+d
+java:S16434"Use a StringBuilder instead.(Ñ“Ì†ÿÿÿÿÿ8œ®É2J$837efc2a-dca6-4c2a-96f1-08c0dcb69770
+]	java:S125
+"<This block of commented-out lines of code should be removed.(£Å„Áøÿÿÿÿ8­«ÂşÉ2
+~	java:S125"<This block of commented-out lines of code should be removed.(ôûÚµ8ö¹‘®É2J$9c731841-bb3e-4a98-b0cd-dd6dfe435f29
+m	java:S106"+Replace this use of System.out by a logger.(ÆÀûı8ùî®É2J$f20812af-9538-4a9c-b593-b07be332abc9
+m	java:S1067"+Replace this use of System.out by a logger.(Â¤®ø8¬Ï¯®É2J$ae5ed295-77b0-4cf9-879a-a7ac28ee4ecf
+r	java:S1068"+Replace this use of System.out by a logger.(“¢©Åûÿÿÿÿ8¬Ï¯®É2J$df134018-0cbe-4ba2-8266-93d41e15f277

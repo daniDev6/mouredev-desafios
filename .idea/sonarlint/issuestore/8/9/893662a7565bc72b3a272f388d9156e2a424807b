@@ -1,0 +1,14 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„ï¨Ãûÿÿÿÿ8Ÿ”ÁòÌ2J$45ad94db-ca25-4503-9e04-81513599a9a7
+{
+java:S2589""8Remove this expression which always evaluates to "false"(Õ×ÿø8Ÿ”ÁòÌ2J$dc7ecc1c-aa56-4ee1-b514-627a688b9a3a
+¤
+java:S1192"\Define a constant instead of duplicating this literal "---------------------------" 3 times.(ğ³æÂûÿÿÿÿ8 ”ÁòÌ2J$d1622161-4cc8-4017-b560-0f406a204e4f
+r	java:S106"+Replace this use of System.out by a logger.(ğ³æÂûÿÿÿÿ8¢”ÁòÌ2J$4a82051a-c0c4-47cc-a016-67e9cc769d36
+r	java:S106"+Replace this use of System.out by a logger.(ğ³æÂûÿÿÿÿ8¢”ÁòÌ2J$0d150b67-b681-4dba-a77e-a14468cf523f
+r	java:S106"+Replace this use of System.out by a logger.(ğ³æÂûÿÿÿÿ8¢”ÁòÌ2J$75857c06-f7a0-4382-b27e-528da34ba8d9
+r	java:S106"+Replace this use of System.out by a logger.(„ÅÛ ùÿÿÿÿ8¢”ÁòÌ2J$ff736b9f-0971-4138-84b3-44f76f5ca382
+m	java:S106"+Replace this use of System.out by a logger.(–×„8¢”ÁòÌ2J$e6b13905-adf2-422c-bf49-961c48a9c927
+m	java:S106"+Replace this use of System.out by a logger.(—àÈÚ8£”ÁòÌ2J$6dbb14ea-4288-4d48-b89c-f7ec33ef9967
+m	java:S106"+Replace this use of System.out by a logger.(¸£é8ıüÈòÌ2J$656d6d96-1187-4617-8376-a6200b89c472
+m	java:S106"+Replace this use of System.out by a logger.(Ÿº­ 8â‹ÊòÌ2J$4c9338fc-c3ae-4ab9-8743-26d994fa6654

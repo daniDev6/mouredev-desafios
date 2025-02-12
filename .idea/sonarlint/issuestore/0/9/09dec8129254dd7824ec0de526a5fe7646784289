@@ -1,0 +1,10 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šœÑşÿÿÿÿ8á˜º¥Ê2J$6835eeab-14af-49f2-bb77-043e3cf3f861
+r
+java:S1066E"/Merge this if statement with the enclosing one.(ˆË÷§8â˜º¥Ê2J$7edd24ab-51c2-499e-b4a3-70b5c2852910
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8À„Ä¥Ê2J$d0345b61-c644-4980-b494-652190480179
+m	java:S106"+Replace this use of System.out by a logger.(‹‚„Ò8æ˜º¥Ê2J$c21a20be-64ae-4836-ab21-781c28ea3426
+l	java:S106"+Replace this use of System.out by a logger.(˜A8æ˜º¥Ê2J$52f5e734-0b16-4a5f-9626-d78c79928050
+r	java:S106"+Replace this use of System.out by a logger.(éÄÎşÿÿÿÿ8ïüº¥Ê2J$850611a4-947d-483a-9ad0-7e50324f5edf
+r	java:S106"+Replace this use of System.out by a logger.(ç¯ƒ¡ùÿÿÿÿ8´ˆ¼¥Ê2J$1f423de5-7223-4bee-a4cb-323d9efdaf3d
+G	java:S106"+Replace this use of System.out by a logger.(§œŸ8— Æ¥Ê2

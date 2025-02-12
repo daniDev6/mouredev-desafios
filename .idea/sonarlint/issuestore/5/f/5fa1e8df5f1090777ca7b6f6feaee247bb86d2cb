@@ -1,0 +1,21 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä³¿úÿÿÿÿ8‡ş¼”Ë2J$b4cbb82d-0f09-426a-a7ac-52bb56d9852f
+d
+java:S1643,"Use a StringBuilder instead.(–Òùşÿÿÿÿ8ˆş¼”Ë2J$24b4122d-0997-4f91-bdd1-167aff1181d6
+¨
+java:S1192"`Define a constant instead of duplicating this literal "-------------------------------" 4 times.(•°«Ÿıÿÿÿÿ8ş™Ç”Ë2J$02dbe245-9213-438f-9776-d16736effa3a
+r	java:S106"+Replace this use of System.out by a logger.(‡ÿ¹“ıÿÿÿÿ8Œş¼”Ë2J$c515a0c3-529a-4d83-83d0-8a29c560d8e1
+r	java:S106"+Replace this use of System.out by a logger.(•°«Ÿıÿÿÿÿ8Œş¼”Ë2J$74928e79-fa3e-4968-9bb1-a11d47d85c2a
+m	java:S106"+Replace this use of System.out by a logger.(ĞŒÕ°8Œş¼”Ë2J$00af7e2d-305f-40ef-8b8c-1c4c4fb30aed
+r	java:S106"+Replace this use of System.out by a logger.(•°«Ÿıÿÿÿÿ8ô»½”Ë2J$49215597-ece6-40c6-9461-862b87d91ff9
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8˜¦¾”Ë2J$5cf053a8-3e52-4e6e-b6cc-ed1a3e363f7e
+r	java:S106"+Replace this use of System.out by a logger.(•°«Ÿıÿÿÿÿ8äèÀ”Ë2J$0c40a36b-e965-4fc6-b4fa-4a7c1dd3d7a9
+m	java:S106"+Replace this use of System.out by a logger.(«¾ºö8…‚Ä”Ë2J$68063c41-b0a5-4f72-88a2-a667e5285165
+r	java:S106"+Replace this use of System.out by a logger.(•°«Ÿıÿÿÿÿ8¸Æ”Ë2J$a63e1f0d-387d-4626-bab8-da27985c3a54
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‘ÚÆ”Ë2J$0b2d8f5a-9239-4648-8c00-4e552c7aa7c7
+r	java:S106"+Replace this use of System.out by a logger.(€úì‰ıÿÿÿÿ8‡šÇ”Ë2J$3acf4374-0ad7-48a8-80ef-c65163073db8
+m	java:S106"+Replace this use of System.out by a logger.(¸£é8‡šÇ”Ë2J$9d953d99-a6d1-4400-b288-235cd67c8aa2
+r	java:S106""+Replace this use of System.out by a logger.(‘‘Ú°úÿÿÿÿ8ÖåÇ”Ë2J$f14be5cb-72d5-4b6d-9c0c-1f452ac69dc5
+m	java:S106#"+Replace this use of System.out by a logger.(•©˜œ8ÂÉÈ”Ë2J$2226f557-3669-4201-95c0-ae152b089060
+w
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ºÆ”Ë2J$730077ed-40df-4b95-be46-6b206b3ef49f
